@@ -1,5 +1,15 @@
  public class Main{
     public static void main(String[] args){
-        System.out.println("namaste world");
+        int a = 4;
+        int b = 3;
+        int add = a + b;
+        int sub = a - b;
+        int mul = a * b;
+        int div = a / b;
+        System.out.println("addtion of numbers "+ add);
+        System.out.println("subtration of numbers "+sub);
+        System.out.println("multiply of numbers "+mul);
+        System.out.println("divsion of numbers "+div);
+        System.out.println("namaste world!");
     }
  }
