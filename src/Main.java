@@ -11,6 +11,7 @@
         System.out.println("multiply of numbers "+mul);
         System.out.println("divsion of numbers "+div);
         System.out.println("the whole new world");
+        System.out.println("the whole new universe");
         System.out.println("namaste world!");
     }
  }
